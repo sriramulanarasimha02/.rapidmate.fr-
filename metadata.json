@@ -1,0 +1,6 @@
+{
+  "name": "RapidMate",
+  "description": "B2B restaurant delivery rider staffing partner helping restaurants, pizza chains, sushi restaurants, and cloud kitchens handle peak-hour delivery demand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
